@@ -26,7 +26,7 @@ PS:
 FAQ：
 
  - 如何提交代码？请注意**注明你们的姓名、联系电话后**，以下几种选一种：
-     - 把写好的代码文件，email 到 wdeng@kalengo.com 
+     - 把写好的代码文件，email 到 wdeng@kalengo.com，hxie@kalengo.com 
      - fork 这个项目，然后写具体代码后，发pull request 给 wdeng@kalengo.com 。
      - fork 这项目，然后写具体代码后，发你的github 项目地址给 wdeng@kalengo.com 。
 
